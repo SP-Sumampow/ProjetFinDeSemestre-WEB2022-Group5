@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "parcel-bundler": "^1.12.4"
   },
-  "devDependencies": {},
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
