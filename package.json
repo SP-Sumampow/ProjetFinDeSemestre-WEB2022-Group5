@@ -1,28 +1,25 @@
 {
-  "name": "parcel-boilerplate",
+  "name": "ProjetFinDeSemestre-WEB2022-Group5",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {},
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anthony-roux/parcel-boilerplate.git"
+    "url": "git+https://github.com/SP-Sumampow/ProjetFinDeSemestre-WEB2022-Group5.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anthony-roux/parcel-boilerplate/issues"
+    "url": "https://github.com/SP-Sumampow/ProjetFinDeSemestre-WEB2022-Group5/issues"
   },
-  "homepage": "https://github.com/anthony-roux/parcel-boilerplate#readme",
-  "devDependencies": {
-    "parcel-bundler": "^1.12.4",
-    "sass": "^1.25.1-test.1"
-  },
-  "dependencies": {
-    "rellax": "^1.12.0"
-  },
-  "keywords": []
+  "homepage": "https://github.com/SP-Sumampow/ProjetFinDeSemestre-WEB2022-Group5#readme"
 }
